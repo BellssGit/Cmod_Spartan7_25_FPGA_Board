@@ -17,7 +17,7 @@ Well protected power distribute system and high speed ESD on all IO port.
 On board JTAG and FT245 async FIFO / Serial
 
 
-Made with LCEDA.
+Made with LCEDA, also post this board on [OSHWHUB](https://oshwhub.com/nbelllp/spartan7_core2).
 
 
 ![1.jpg](https://s2.loli.net/2025/09/22/JQ7jxo9GHVqwOyt.jpg)
