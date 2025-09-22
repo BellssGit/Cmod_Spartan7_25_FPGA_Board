@@ -1,6 +1,7 @@
 # Cmod_Spartan7_25_FPGA_Board
 A small 4 layers Spartan7 FPGA dev board, inspired by Digilent Cmod 
-﻿ 
+
+  
 Pin compatible with ESP32-like board. Plus a PMOD interface. All IO are differential route out. And Bank15 IO voltage are selectable (3.3 or 1.8) using 0 ohm resistor jumper. 
 
   
