@@ -14,6 +14,9 @@ Pin compatible with ESP32-like board. Plus a PMOD interface. All IO are differen
 Well protected power distribute system and high speed ESD on all IO port.
 
 
+On board JTAG and FT245 async FIFO / Serial
+
+
 Made with LCEDA.
 
 
